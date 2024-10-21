@@ -1,2 +1,2 @@
-# Prueba-T-cnica-Practicante-Data-Scientist---Skandia
+# Prueba Técnica Practicante Data Scientist 
 Prueba tecnica para Data Scientist
